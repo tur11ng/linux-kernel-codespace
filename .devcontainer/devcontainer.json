@@ -15,6 +15,7 @@
             "plorefice.devicetree",
             "lorent-revest.patchwork",
             "florent-revest.git-send-email",
+            "tamasfe.even-better-toml",
             "npxms.hide-gitignored",
             "tur11ng.action-buttons-customizer"
         ]}
